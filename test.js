@@ -1,6 +1,6 @@
+function reload() {
+  console.log("ola");
 
-
-const reload = () {
-                console.log("ola");
-                return true;
+  console.log("ola");
+  return true;
 }
