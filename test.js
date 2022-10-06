@@ -1,8 +1,6 @@
-
-
 function reload() {
-                console.log("ola");
+  console.log("ola");
 
-                console.log("ola");
-                return true;
+  console.log("ola");
+  return true;
 }
